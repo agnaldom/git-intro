@@ -7,3 +7,4 @@ Aqui ja aprendemos
 *   git push origin master
 *   git push -> funciona so se voce estiver na branch principal
 *   git checkout -b developer --> aqui estamos criando uma nova branch developer
+*   git pull origin <branch que esta>
